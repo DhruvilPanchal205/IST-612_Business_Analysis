@@ -24,7 +24,7 @@ This repository serves as a collection of projects and resources related to busi
   
 ### 3. Stress Management Productivity
 - Description: Resources and findings related to stress management and its impact on productivity in business settings.
-- Created: Fishbone diagram, Stakeholder Metrix.
+- Created: Kick-off notes, Fishbone diagram, Stakeholder Metrix.
 - Files: [Stress Mgmt & Productivity](https://github.com/DhruvilPanchal205/IST-612_Business_Analysis/tree/677ab41cb8466b29bb88e025906effd8569b16ee/Stress_Management_and_Productivity)
 ## Topics Covered
 The following topics were covered during the course:

@@ -1,6 +1,6 @@
 # IST-612_Business_Analysis
 
-Welcome to the IST 612 Business Analysis repository! This repository contains projects and resources related to various business analysis topics covered in the course.
+Welcome to the IST 612 Business Analysis repository! Within this repository, you'll discover a compilation of projects and resources centered around diverse business analysis topics. My focus has been on diligently studying the concepts of Business Analysis as outlined in the BABOK Guide v3 from the IIBA. This repository encapsulates the practical application of this knowledge and the hands-on experience gained through dedicated work and exploration within this field.
 
 ## Table of Contents
 - [Overview](#overview)

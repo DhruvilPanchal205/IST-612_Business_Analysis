@@ -15,7 +15,7 @@ This repository serves as a collection of projects and resources related to busi
 ## Projects
 ### 1. Car Rental Systems
 - Description: Explore the implementation and analysis of a Car Rental System within the context of business analysis.
-- Files: Car Rental Management
+- Files: [Car Rental Management](https://github.com/DhruvilPanchal205/IST-612_Business_Analysis/tree/922c766f8c496b5d61e351f64ec48ff3e4f56757/Car%20Rental%20Management)
 
 ### 2. M&A Strategy
 - Description: Documents and insights into Merger and Acquisition strategies examined during the course.

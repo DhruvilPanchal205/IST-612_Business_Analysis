@@ -33,6 +33,6 @@ The following topics were covered during the course:
 - Stress Management for Productivity
 
 ## Usage
-Feel free to explore the files and materials provided here for educational or reference purposes. If you'd like to contribute, follow the guidelines in the [Contributing](#contributing) section.
+You can utilize the IST 612 Business Analysis repository as a comprehensive reference hub for various business analysis topics. Whether you're seeking insights into specific projects or require resources related to Business Analysis concepts aligned with the BABOK Guide v3 from the IIBA, this repository serves as a valuable knowledge base. 
 
 

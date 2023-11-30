@@ -19,7 +19,7 @@ This repository serves as a collection of projects and resources related to busi
 
 ### 2. M&A Strategy
 - Description: Documents and insights into Merger and Acquisition strategies examined during the course.
-- Files: (https://github.com/DhruvilPanchal205/IST-612_Business_Analysis/tree/6ee5b1a2c018a3bb5d33e3f31b240dcae3410fa7/M%26A_Strategy)
+- Files: M&A_Strategy
 ### 3. Stress Management Productivity
 - Description: Resources and findings related to stress management and its impact on productivity in business settings.
 - Files: [Stress_Management_Report.pdf](Stress_Management_Report.pdf), [Productivity_Enhancement_Tips.md](Productivity_Enhancement_Tips.md)
